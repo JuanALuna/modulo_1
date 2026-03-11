@@ -1,1 +1,6 @@
-
+- Un archivo .html se incia con "\<html>\" y termina con "\</html>\"  
+- Para cerrar un comando "\<   >\" siempre se usa "\</   >\"  
+- Para crear el cuerpo se escribe "\<body>\"  
+- Para un parrafo "\<p>\"
+- Para una lsita desordenada "\<ul>\"  
+- Para un elemento de lista "\<li>\"
